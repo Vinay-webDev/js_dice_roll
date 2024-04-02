@@ -1,0 +1,38 @@
+.container {
+    margin: 100px;
+    text-align: center;
+}
+h1{
+    font-size: 80px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 1000;
+    color: navy;
+}
+.dice{
+    font-size: 72px;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    border: 2px solid #000;
+    border-radius: 10px;
+    margin: 20px auto;
+}
+button {
+    font-size: 18px;
+    border: none;
+    background-color: navy;
+    color: white;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
