@@ -18,7 +18,9 @@ h1{
     margin: 20px auto;
 }
 button {
-    font-size: 18px;
+    margin: 150px auto 20px;
+    padding: 10px 20px;
+    font-size: 20px;
     border: none;
     background-color: navy;
     color: white;
